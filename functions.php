@@ -2,9 +2,9 @@
 include_once '../conn.php';
 /*
 $dbhost = 'localhost'; // Unlikely to require changing
-$dbname = 'workforce'; // Modify these...
-$dbuser = 'bewket'; // ...variables according
-$dbpass = 'amoraw'; // ...to your installation
+$dbname = ''; // Modify these...
+$dbuser = ''; // ...variables according
+$dbpass = ''; // ...to your installation
 mysql_connect($dbhost, $dbuser, $dbpass) or die(mysql_error());
 mysql_select_db($dbname) or die(mysql_error());
 */
